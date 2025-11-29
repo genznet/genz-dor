@@ -20,11 +20,11 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/purplemashu/me-cli-sunset
+git clone https://github.com/genznet/genz-dor
 ```
 4. Open the folder
 ```
-cd me-cli-sunset
+cd genz-dor
 ```
 5. Setup
 ```
@@ -45,6 +45,3 @@ What's the point of strong client side security when the server don't enforce it
 ## Terms of Service
 By using this tool, the user agrees to comply with all applicable laws and regulations and to release the developer from any and all claims arising from its use.
 
-## Contact
-
-contact@mashu.lol
